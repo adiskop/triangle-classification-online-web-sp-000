@@ -9,9 +9,9 @@ def initialize(a,b,c)
 end
 
 def kind
-  if a == b == c 
+  if a == b == c
     :equilateral
-  
+
 end
 
 
