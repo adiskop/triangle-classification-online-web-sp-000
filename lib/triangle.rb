@@ -14,7 +14,7 @@ def kind
   elsif a==b || b==c || c==a
     :isosceles
   else
-    a!=b && b!=c & c!=a 
+
     :scalene
 end
 
