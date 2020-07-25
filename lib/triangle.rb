@@ -7,4 +7,12 @@ def initialize(a,b,c)
 @c=c
 
 end
+
+def kind
+  if a == b == c 
+    :equilateral
+  
+end
+
+
 end
